@@ -1,6 +1,6 @@
 cask "twintype-cloud" do
-  version "1.0.4"
-  sha256 "da234a925e8e7f14a19efcb641cabc9348b7d515554af4abb1805cbe77da939f"
+  version "1.0.5"
+  sha256 "dfaabdc6d4cc0f36720b0c8c4f9e0e96580fe75b05a5fde06ddb52b9ff68d84e"
 
   url "https://cloud-api.twintype.co/api/downloads/version/mac/#{version}",
       verified: "cloud-api.twintype.co/api/downloads/version/mac/"
